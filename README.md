@@ -1,3 +1,2 @@
-# portifolio-cristiano-tobias
-
-### Criando o setup apenas para revisão do Professor
+# mysite
+Django personal blog
